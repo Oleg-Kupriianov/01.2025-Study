@@ -4,8 +4,7 @@ You did it!
 and let's do some practice
 
 Download for Windows
-<<<<<<< HEAD
 
-new contentnew contentnew contentnew content
-=======
->>>>>>> 1af53453d8e358a10f3a0d35204f38708d030fcd
+new content
+one two three
+four five
